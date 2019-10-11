@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="overview">Overview</string>
+    <string name="released_on">Released on:</string>
+    <string name="order_by_rating">Order by Rating</string>
+    <string name="order_by_popularity">Order by Popularity</string>
+    <string name="view_trailer">View Trailer</string>
+</resources>
